@@ -1,0 +1,6 @@
+*.aspx linguist-language=C#
+*.ascx linguist-language=C#
+*.master linguist-language=C#
+*.cshtml linguist-language=C#
+*.cs linguist-language=C#
+*.config linguist-language=C#
